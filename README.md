@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Adarsh Chahar 👋
 
-<!--
-**adarshh-dev/adarshh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎥 **Media Creator** | 💻 **BCA Student & Tech Enthusiast**
 
-Here are some ideas to get you started:
+I combine my passion for visual storytelling (Photography & Videography) with programming and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ What I'm Working With:
+- **Languages & Tech:** Python, HTML, C++, Git/GitHub (Learning)
+- **Creative Tools:** VS Code, Capcut(editing)
+- **Interests:** Media Automation, Web Development, Video Editing Pipelines
+
+---
+
+### 📌 Featured Projects:
+- 🎬 **YouTube Uploader Tool:** Automated script to upload and schedule video content seamlessly.
+- ⚙️ **Media / DRM Uploader:** Custom tool built for handling and uploading media streams.
+- 🌐 **Creative Portfolio (Coming Soon):** Web gallery showcasing visual work and video projects.
+
+---
+
+📫 **Connect with me:**
+- LinkedIn: [Apna LinkedIn Link Lagao]
+- Portfolio / Instagram: [Apna Link Lagao]
