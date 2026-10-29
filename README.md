@@ -21,5 +21,5 @@ I combine my passion for visual storytelling (Photography & Videography) with pr
 ---
 
 📫 **Connect with me:**
-- LinkedIn: [Apna LinkedIn Link Lagao]
-- Portfolio / Instagram: [Apna Link Lagao]
+- LinkedIn: https://www.linkedin.com/in/adarsh-chahar
+- Portfolio / Instagram: https://www.instagram.com/itsadarsh_chahar
